@@ -23,8 +23,7 @@ export default function NavBar() {
           align-items: center;
           padding-top: 20px;
           padding-bottom: 10px;
-          box-shadow: rgba(50, 50, 93, 0.25) 0px 50px
-          rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+          box-shadow: rgba(50, 50, 93, 0.25) 0px 50px rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
         }
         img {
           max-width: 100px;
