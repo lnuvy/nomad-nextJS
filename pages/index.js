@@ -21,7 +21,12 @@ export default function Home({ results }) {
           gap: 20px;
         }
 
+        .movie {
+          
+        }
+
         .movie img {
+          cursor: pointer;
           max-width: 100%;
           border-radius: 12px;
           transition: transform 0.2s ease-in-out;
